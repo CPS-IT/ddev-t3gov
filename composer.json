@@ -3,7 +3,12 @@
 		{
 			"type": "composer",
 			"url": "https://composer.typo3.org/"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/CPS-IT/government_package"
 		}
+
 	],
 
 	"config": {
@@ -43,7 +48,8 @@
 		"typo3/cms-t3editor": "^11.5.0",
 		"typo3/cms-tstemplate": "^11.5.0",
 		"typo3/cms-viewpage": "^11.5.0",
-		"apache-solr-for-typo3/solr": "11.5.0-rc-2"
+		"apache-solr-for-typo3/solr": "11.5.0-rc-2",
+		"cpsit/government-package": "dev-master"
 	},
 	"require-dev": {
 		"friendsoftypo3/phpstan-typo3": "~0.2",
