@@ -19,6 +19,10 @@
 		"platform": {
 			"php": "7.4.1"
 		},
+		"preferred-install": {
+			"cpsit/government-package": "source",
+			"*": "auto"
+		},
 		"sort-packages": true
 	},
 	"require": {
