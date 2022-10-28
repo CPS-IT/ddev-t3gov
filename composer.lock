@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "66b42d9f81c556c1329de95c6d5426aa",
+    "content-hash": "3d800ce114b2bc23d744ff08d15e4b7c",
     "packages": [
         {
             "name": "apache-solr-for-typo3/solr",
@@ -342,16 +342,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CPS-IT/government_package.git",
-                "reference": "81fbd8b64b2e055f0f70ee0b52f25479a6f7c3d9"
+                "reference": "ccb78e1c71617d0f80bb502482ad7580cb3f9e60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CPS-IT/government_package/zipball/81fbd8b64b2e055f0f70ee0b52f25479a6f7c3d9",
-                "reference": "81fbd8b64b2e055f0f70ee0b52f25479a6f7c3d9",
+                "url": "https://api.github.com/repos/CPS-IT/government_package/zipball/ccb78e1c71617d0f80bb502482ad7580cb3f9e60",
+                "reference": "ccb78e1c71617d0f80bb502482ad7580cb3f9e60",
                 "shasum": ""
             },
             "require": {
-                "apache-solr-for-typo3/solr": "^11.5@RC",
+                "apache-solr-for-typo3/solr": "^11.5",
                 "bk2k/bootstrap-package": "^12.0",
                 "georgringer/news": "^9.4",
                 "reelworx/rx-shariff": "^14",
@@ -370,10 +370,10 @@
                 }
             },
             "support": {
-                "source": "https://github.com/CPS-IT/government_package/tree/0.1.0",
+                "source": "https://github.com/CPS-IT/government_package/tree/master",
                 "issues": "https://github.com/CPS-IT/government_package/issues"
             },
-            "time": "2022-08-05T21:41:19+00:00"
+            "time": "2022-10-28T19:37:20+00:00"
         },
         {
             "name": "dasprid/enum",
